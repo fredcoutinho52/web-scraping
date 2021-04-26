@@ -12,7 +12,7 @@ Repository to store my web scraping study files.
 
 ```bash
 # clone this repository
-git clone 
+git clone https://github.com/fredcoutinho52/web-scraping.git
 
 # init the virtual enviroment
 python -m venv env
