@@ -1,3 +1,4 @@
 requests===2.25.1
 bs4===0.0.1
 pandas===1.2.4
+unidecode===1.2.0
