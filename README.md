@@ -6,28 +6,38 @@ Repository to store my web scraping study files.
 
 * [Pip](https://pypi.org/project/pip/)
 * [Python](https://python.org/)
-* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## How to use
 
+#### Clone this repository
 ```bash
-# clone this repository
 git clone https://github.com/fredcoutinho52/web-scraping.git
+```
 
-# init the virtual enviroment
+#### Init the virtual enviroment
+```bash
 python -m venv env
+```
 
-# activate the virtual enviroment
+#### Activate the virtual enviroment
+```bash
 env\Scripts\activate (Windows)
+
 source env/bin/activate (Linux)
+```
 
-# install the dependencies
+#### Install the dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# run the script
+#### Run the script
+```bash
 python main.py
+```
 
-# deactivate the virtual enviroment
+#### Deactivate the virtual enviroment
+```bash
 deactivate
 ```
 
